@@ -1,6 +1,13 @@
-# Task-Manager-App---in-pricess
+# Task-Manager-App---in-process
 
-
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen1.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen2.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen3.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen4.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen5.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen6.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen7.JPG)
+![alt text](https://github.com/sh-anna/Task-Manager-App---in-pricess/blob/main/screenshots/screen8.JPG)
 
 About
 -----
